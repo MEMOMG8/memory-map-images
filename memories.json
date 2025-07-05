@@ -1,0 +1,58 @@
+[
+  {
+    "": "id",
+    "__1": "lat",
+    "__2": "lng",
+    "__3": "imgUrl",
+    "__4": "caption"
+  },
+  {
+    "": "UPCH-1",
+    "__1": -12.0245865,
+    "__2": -77.0561658,
+    "__3": "https://memomg8.github.io/memory-map-images/images/IMG-20250705-WA0014.jpg",
+    "__4": "Siempre estaré para ti."
+  },
+  {
+    "": "UPCH-2",
+    "__1": -12.0245865,
+    "__2": -77.0561658,
+    "__3": "https://memomg8.github.io/memory-map-images/images/IMG-20250705-WA0015.jpg",
+    "__4": "Por si quieres tenerme más cerquita."
+  },
+  {
+    "": "UPCH-3",
+    "__1": -12.0245865,
+    "__2": -77.0561658,
+    "__3": "https://memomg8.github.io/memory-map-images/images/IMG-20250705-WA0018.jpg",
+    "__4": "Te amo mucho. ¡Tendrás un hermoso día por delante!"
+  },
+  {
+    "": "UNI-1",
+    "__1": -12.0234206,
+    "__2": -77.0500718,
+    "__3": "https://memomg8.github.io/memory-map-images/images/IMG-20250705-WA0016.jpg",
+    "__4": "Por si te sientes sola."
+  },
+  {
+    "": "UNI-2",
+    "__1": -12.0234206,
+    "__2": -77.0500718,
+    "__3": "https://memomg8.github.io/memory-map-images/images/IMG-20250705-WA0017.jpg",
+    "__4": "Por si quieres mi compañía."
+  },
+  {
+    "": "UNI-3",
+    "__1": -12.0234206,
+    "__2": -77.0500718,
+    "__3": "https://memomg8.github.io/memory-map-images/images/IMG-20250705-WA0019.jpg",
+    "__4": "Te extraño, mi princesa. Pronto llegarás a tu destino."
+  },
+  {
+    "": "STB-1",
+    "__1": -12.1017382,
+    "__2": -77.016212,
+    "__3": "https://memomg8.github.io/memory-map-images/images/IMG-20250705-WA0013.jpg",
+    "__4": "Para estudiar juntitos."
+  }
+]
